@@ -1,0 +1,6 @@
+i3-msg "workspace 5: ; append_layout /home/putki/.i3/layoutit/finalkoodi.json"
+urxvt -cd ~/pipenpyyttoni -name editori &
+#sleep 0.1
+urxvt -name muistiinpanot -e vim ~/vimmuistiinpanot &
+#exec urxvt -e vim ~/.vimrc
+#exec urxvt -e vim ~/vimmuistiinpanot

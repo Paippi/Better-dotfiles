@@ -1,0 +1,1 @@
+ffmpeg -y -f x11grab -s 608x868 -i :0.0+4,28 -c:v libx264 -r 30 Videos/nyton.mkv
