@@ -1,0 +1,12 @@
+game:
+  arch: win64
+  exe: /home/putki/Games/league-of-legends/drive_c/Riot Games/toimi/drive_c/Riot Games/League
+    of Legends/LeagueClient.exe
+  prefix: /home/putki/Games/league-of-legends/drive_c/Riot Games/toimi
+system:
+  disable_monitoring: true
+  disable_runtime: true
+  env:
+    __GL_THREADED_OPTIMIZATIONS: '1'
+wine:
+  version: staging-2.18-x86_64

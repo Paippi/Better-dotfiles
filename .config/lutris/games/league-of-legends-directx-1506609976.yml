@@ -1,0 +1,8 @@
+game:
+  arch: win32
+  exe: /home/putki/Games/league-of-legends/drive_c/Riot Games/League of Legends/LeagueClient.exe
+  prefix: /home/putki/Games/league-of-legends
+system:
+  disable_runtime: true
+wine:
+  version: staging-2.10-i386

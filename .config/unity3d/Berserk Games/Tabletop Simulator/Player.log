@@ -1,0 +1,176 @@
+Setting breakpad minidump AppID = 286160
+Steam_SetMinidumpSteamID:  Caching Steam ID:  76561198005093754 [API loaded no]
+ERROR: ld.so: object '/home/putki/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/putki/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/putki/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+pid 23111 != 23110, skipping destruction (fork without exec?)
+ERROR: ld.so: object '/home/putki/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+B_compressed_texture_pixel_storage GL_ARB_compute_shader GL_ARB_conditional_render_inverted GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_indirect GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_lo
+cation GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_shader GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_occlusion_query2 GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_robustness GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_d
+raw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_packing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotropic GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_que
+ry GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ATI_blend_equation_separate GL_ATI_texture_float GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_sRGB GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_sRGB G
+L_EXT_texture_sRGB_decode GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_IBM_multimode_draw_arrays GL_INTEL_performance_query GL_KHR_blend_equation_advanced GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_robustness GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_signed_rgba GL_NV_conditional_render GL_NV_depth_clamp GL_NV_packed_depth_stencil GL_NV_texture_barrier GL_OES_EGL_image GL_S3_s3tc
+OPENGL LOG: Creating OpenGL 4.2 graphics device ; Context level  <OpenGL 4.2> ; Context handle 59518976
+AudioManager: Using PulseAudio: Default Output Device
+Begin MonoManager ReloadAssembly
+Platform assembly: /home/putki/.local/share/Steam/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/Managed/UnityEngine.dll (this message is harmless)
+Loading /home/putki/.local/share/Steam/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/Managed/UnityEngine.dll into Unity Child Domain
+Platform assembly: /home/putki/.local/share/Steam/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/Managed/Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading /home/putki/.local/share/Steam/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/Managed/Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: /home/putki/.local/share/Steam/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/Managed/Assembly-CSharp.dll (this message is harmless)
+Loading /home/putki/.local/share/Steam/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/Managed/Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: /home/putki/.local/share/Steam/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/Managed/Assembly-UnityScript.dll (this message is harmless)
+Loading /home/putki/.local/share/Steam/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/Managed/Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: /home/putki/.local/share/Steam/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/Managed/UnityEngine.UI.dll (this message is harmless)
+Loading /home/putki/.local/share/Steam/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/Managed/UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: /home/putki/.local/share/Steam/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/Managed/UnityEngine.Networking.dll (this message is harmless)
+Loading /home/putki/.local/share/Steam/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/Managed/UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: /home/putki/.local/share/Steam/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/Managed/UnityEngine.Analytics.dll (this message is harmless)
+Loading /home/putki/.local/share/Steam/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/Managed/UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: /home/putki/.local/share/Steam/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/Managed/Newtonsoft.Json.dll (this message is harmless)
+Loading /home/putki/.local/share/Steam/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/Managed/Newtonsoft.Json.dll into Unity Child Domain
+Platform assembly: /home/putki/.local/share/Steam/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/Managed/Vectrosity.dll (this message is harmless)
+Loading /home/putki/.local/share/Steam/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/Managed/Vectrosity.dll into Unity Child Domain
+Platform assembly: /home/putki/.local/share/Steam/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/Managed/MoonSharp.Interpreter.dll (this message is harmless)
+Loading /home/putki/.local/share/Steam/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/Managed/MoonSharp.Interpreter.dll into Unity Child Domain
+Platform assembly: /home/putki/.local/share/Steam/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/Managed/ObjReader.dll (this message is harmless)
+Loading /home/putki/.local/share/Steam/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/Managed/ObjReader.dll into Unity Child Domain
+Platform assembly: /home/putki/.local/share/Steam/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/Managed/MouseLibWin.dll (this message is harmless)
+Loading /home/putki/.local/share/Steam/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/Managed/MouseLibWin.dll into Unity Child Domain
+Platform assembly: /home/putki/.local/share/Steam/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/Managed/ProMouseDll.dll (this message is harmless)
+Loading /home/putki/.local/share/Steam/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/Managed/ProMouseDll.dll into Unity Child Domain
+Platform assembly: /home/putki/.local/share/Steam/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/Managed/yIRC.dll (this message is harmless)
+Loading /home/putki/.local/share/Steam/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/Managed/yIRC.dll into Unity Child Domain
+Platform assembly: /home/putki/.local/share/Steam/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/Managed/OSCsharp.dll (this message is harmless)
+Loading /home/putki/.local/share/Steam/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/Managed/OSCsharp.dll into Unity Child Domain
+Platform assembly: /home/putki/.local/share/Steam/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/Managed/TUIOsharp.dll (this message is harmless)
+Loading /home/putki/.local/share/Steam/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/Managed/TUIOsharp.dll into Unity Child Domain
+Platform assembly: /home/putki/.local/share/Steam/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/Managed/VacuumShaders.TextureAdjustments.dll (this message is harmless)
+Loading /home/putki/.local/share/Steam/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/Managed/VacuumShaders.TextureAdjustments.dll into Unity Child Domain
+- Completed reload, in  0.033 seconds
+Platform assembly: /home/putki/.local/share/Steam/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/Managed/System.Core.dll (this message is harmless)
+Platform assembly: /home/putki/.local/share/Steam/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/Managed/System.dll (this message is harmless)
+OnLevelWasLoaded was found on TouchManagerInstance
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+OnLevelWasLoaded was found on LineManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+Shader 'Nature/Terrain/Diffuse': dependency 'Details0' shader 'Hidden/TerrainEngine/Details/Vertexlit' not found
+Shader 'Nature/Terrain/Diffuse': dependency 'Details2' shader 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' not found
+New context 0xe7b6c70 created with attributes:
+Default vsync count 0
+requesting resize 1920 x 1080
+resizing window to 1920 x 1080
+Desktop is 1600 x 900 @ 59 Hz
+UnloadTime: 1.839000 ms
+Desktop is 1600 x 900 @ 59 Hz
+Platform assembly: /home/putki/.local/share/Steam/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/Managed/Boo.Lang.dll (this message is harmless)
+Platform assembly: /home/putki/.local/share/Steam/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/Managed/Mono.Security.dll (this message is harmless)
+Platform assembly: /home/putki/.local/share/Steam/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/Managed/System.Configuration.dll (this message is harmless)
+Platform assembly: /home/putki/.local/share/Steam/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/Managed/System.Xml.dll (this message is harmless)
+Platform assembly: /home/putki/.local/share/Steam/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/Managed/System.Xml.Linq.dll (this message is harmless)
+Platform assembly: /home/putki/.local/share/Steam/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/Managed/System.Runtime.Serialization.dll (this message is harmless)
+The referenced script on this Behaviour (Game Object 'WebCoreInputController') is missing!
+ 
+(Filename:  Line: 1744)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.597000 ms
+ArgumentException: The scene is not loaded.
+  at UnityEngine.SceneManagement.Scene.GetRootGameObjects (System.Collections.Generic.List`1 rootGameObjects) [0x00000] in <filename unknown>:0 
+  at Singleton`1[UIDialog].get_Instance () [0x00000] in <filename unknown>:0 
+  at UIDialog.SetMode (Mode mode) [0x00000] in <filename unknown>:0 
+  at UIDialog.Show (System.String description, System.String leftButtonText, System.String rightButtonText, System.Action leftButtonFunc, System.Action rightButtonFunc) [0x00000] in <filename unknown>:0 
+  at NetworkUI.CheckReset () [0x00000] in <filename unknown>:0 
+  at NetworkUI.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 40811.
+Total: 62.403999 ms (FindLiveObjects: 3.324000 ms CreateObjectMapping: 0.572000 ms MarkObjects: 51.507999 ms  DeleteObjects: 7.000000 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 40812.
+Total: 51.052998 ms (FindLiveObjects: 4.142000 ms CreateObjectMapping: 0.719000 ms MarkObjects: 46.146000 ms  DeleteObjects: 0.045000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 40885.
+Total: 51.618000 ms (FindLiveObjects: 4.594000 ms CreateObjectMapping: 0.973000 ms MarkObjects: 46.008999 ms  DeleteObjects: 0.041000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 40963.
+Total: 55.296997 ms (FindLiveObjects: 4.388000 ms CreateObjectMapping: 0.562000 ms MarkObjects: 50.249001 ms  DeleteObjects: 0.097000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 40963.
+Total: 53.810001 ms (FindLiveObjects: 4.723000 ms CreateObjectMapping: 0.580000 ms MarkObjects: 48.465000 ms  DeleteObjects: 0.040000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 40972.
+Total: 62.756001 ms (FindLiveObjects: 5.119000 ms CreateObjectMapping: 0.499000 ms MarkObjects: 57.096001 ms  DeleteObjects: 0.040000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 40963.
+Total: 53.757999 ms (FindLiveObjects: 4.103000 ms CreateObjectMapping: 0.738000 ms MarkObjects: 48.873001 ms  DeleteObjects: 0.041000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 40972.
+Total: 63.624001 ms (FindLiveObjects: 4.234000 ms CreateObjectMapping: 0.699000 ms MarkObjects: 58.646000 ms  DeleteObjects: 0.044000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 40972.
+Total: 55.601002 ms (FindLiveObjects: 6.089000 ms CreateObjectMapping: 0.502000 ms MarkObjects: 48.966999 ms  DeleteObjects: 0.042000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 40963.
+Total: 73.697998 ms (FindLiveObjects: 6.895000 ms CreateObjectMapping: 1.050000 ms MarkObjects: 65.709999 ms  DeleteObjects: 0.040000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 40963.
+Total: 58.288998 ms (FindLiveObjects: 4.674000 ms CreateObjectMapping: 0.561000 ms MarkObjects: 53.011997 ms  DeleteObjects: 0.042000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 40972.
+Total: 62.134003 ms (FindLiveObjects: 4.232000 ms CreateObjectMapping: 0.594000 ms MarkObjects: 57.265999 ms  DeleteObjects: 0.041000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 40963.
+Total: 59.300999 ms (FindLiveObjects: 4.131000 ms CreateObjectMapping: 1.039000 ms MarkObjects: 54.088001 ms  DeleteObjects: 0.041000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 40963.
+Total: 53.614002 ms (FindLiveObjects: 4.094000 ms CreateObjectMapping: 0.647000 ms MarkObjects: 48.829998 ms  DeleteObjects: 0.042000 ms)
+
+requesting resize 1600 x 900
+Using native desktop resolution 1600 x 900
+requesting fullscreen 1600 x 900 at 0 Hz
+Desktop is 1600 x 900 @ 59 Hz
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 42796.
+Total: 55.185001 ms (FindLiveObjects: 3.077000 ms CreateObjectMapping: 0.469000 ms MarkObjects: 51.557999 ms  DeleteObjects: 0.081000 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 7f53587c8700 -> priority: 1 
+  Thread -> id: 7f5373fff700 -> priority: 1 
