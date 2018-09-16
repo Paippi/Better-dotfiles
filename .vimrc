@@ -5,9 +5,13 @@ filetype on                  " required
 set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
 "omat setit"
+let g:UltiSnipsExpandTrigger="<tab>"
+let g:UltiSnipsJumpForwardTrigger="<c-b>"
+let g:UltiSnipsJumpBackwardTrigger="<c-z>"
 set pastetoggle=<F2>
 set clipboard=unnamedplus
 nmap ,c :%s///gn <CR>
+nmap ,i <C-v>I#<ESC>
 "inoremap = <Space>=<Space>
 "inoremap " ""<Esc>i
 "inoremap ' ''<Esc>i
@@ -47,7 +51,9 @@ Plugin 'rstacruz/sparkup', {'rtp': 'vim/'}
 " All of your Plugins must be added before the following line
 "Plugin 'Valloric/YouCompleteMe'
 Plugin 'davidhalter/jedi-vim'
-Plugin 'auwsmit/vim-active-numebers'
+Plugin 'auwsmit/vim-active-numbers'
+Plugin 'SirVer/ultisnips'
+Plugin 'honza/vim-snippets'
 call vundle#end()            " required
 filetype plugin indent on    " required
 " To ignore plugin indent changes, instead use:
